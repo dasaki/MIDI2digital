@@ -5,7 +5,7 @@ Midi notes received by the Arduino board are mapped to pins' HIGH/LOW status:
 
 NOTE_#&nbsp;&nbsp;&nbsp;&nbsp;NOTE_NAME&nbsp;&nbsp;&nbsp;&nbsp;PIN&nbsp;&nbsp;&nbsp;&nbsp;STATUS
 
-0x30&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;A0&nbsp;&nbsp;&nbsp;&nbsp;LOW
+0x30\tC\tA0\tLOW
 
 0x31&nbsp;&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;&nbsp;A0&nbsp;&nbsp;&nbsp;&nbsp;HIGH
 
