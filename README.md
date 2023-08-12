@@ -3,9 +3,8 @@ Uses Arduino's MIDIusb library to control digital pins with midi signals
 
 Midi notes received by the Arduino board are mapped to pins' HIGH/LOW status:
 
-NOTE_#&nbsp;&nbsp;&nbsp;&nbsp;NOTE_NAME&nbsp;&nbsp;&nbsp;&nbsp;PIN&nbsp;&nbsp;&nbsp;&nbsp;STATUS
-
-0x30\tC\tA0\tLOW
+| NOTE_# | NOTE_NAME | PIN | STATUS |
+| 0x30 | C | A0 | LOW |
 
 0x31&nbsp;&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;&nbsp;A0&nbsp;&nbsp;&nbsp;&nbsp;HIGH
 
